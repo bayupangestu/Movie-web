@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Love Bracelet",
+    "description": "LOVE bracelet, yellow gold 750/1000 . Sold with a screwdriver. Width: 6.1mm. The iconic LOVE bracelet has been a symbol of free-spirited LOVE since 1969. Its screw motif and famous locking technology are truly timeless design signatures.",
+    "price": 6900,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwbd546177/images/large/637708791868154532-2059314.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Ecrou De Cartier Bracelet",
+    "description": "Yellow gold.  Écrou de Cartier bracelet, white gold 750/1000. Width: 3.5mm.",
+    "price": 7250,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwbd546177/images/large/637708791868154532-2059314.png?sw=750&sh=750&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Juset Un Clou Bracelet",
+    "description": "Yellow gold. Juste un Clou bracelet, medium model, yellow gold 750/1000",
+    "price": 11700,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8cb407ec/images/large/637727570804050851-2195643.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Love Ring",
+    "description": "Platinum. LOVE ring, platinum 950/1000. Width: 5.5mm.",
+    "price": 4000,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwacb54b97/images/large/637708739133650196-2238805.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Panthere De Cartier Ring",
+    "description": "White gold, emeralds, onyx, diamonds. Panthère de Cartier ring, white gold 750/1000, onyx, set with 2 emeralds and 112 brilliant-cut diamonds totaling 0.95 carat. Width of the pattern: 7.31 mm.",
+    "price": 15300,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw25bf4e5a/images/large/637709034285117716-2223270.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Maillon Panthere Ring",
+    "description": "Yellow gold. Maillon Panthère wedding band, yellow gold 750/1000. Width: 2.5 mm. Thickness: 2 mm.",
+    "price": 1210,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw233d5f32/images/large/637720140322502819-2265538.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Cartier D'amour Ring",
+    "description": "Platinum. Cartier d'Amour wedding band, width 5 mm, platinum 950/1000.",
+    "price": 2670,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe9444b3b/images/large/637792721719903048-2295967.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Vendome Louis Cartier Ring",
+    "description": "White gold, yellow gold, rose gold. Vendôme Louis Cartier Wedding Band, rose gold 750/1000, 750/1000 white gold 750/1000, yellow gold 750/1000. Width: 4.8 mm.",
+    "price": 1950,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw29419d20/images/large/637708724752285461-2116862.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Tank Must Watch",
+    "description": "Extra-large model, automatic movement, steel, leather. Tank Must watch, caliber 1847 MC. Steel case, silvered flinqué dial. Case dimensions: 41 mm x 31 mm, thickness: 8.4 mm. Water-resistant up to 3 bar (approx. 30 meters/100 feet).",
+    "price": 3700,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcd1d4393/images/large/637709303647994656-2182247.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Rotonde De Cartier Watch",
+    "description": "40mm, hand-wound mechanical movement, rose gold, leather. Rotonde de Cartier watch. Case in rose gold 750/1000 fluted crown decorated with a cabochon sapphire, silvered guilloché dial, apple-shaped hands in blued steel, brown alligator-skin strap",
+    "price": 23500,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwde492b97/images/large/637594964746716517-645405.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Portfolio, Must De Cartier",
+    "description": "Black calfskin, palladium finish. Portfolio in black calfskin with detachable wrist strap. Zipped closure, palladium-finish metal parts. Dimensions: 260 mm high x 345 mm wide x 20 mm deep. Hand carry.",
+    "price": 1250,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc26591e2/images/large/637777162532941016-2272666.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Belt, Tank Cowhide",
+    "description": "Black grained and smooth cowhide, palladium-finish buckle. Belt with grained and smooth palladium-finish ardillon buckle, Cartier signature. Strap in black cowhide, embossed Cartier marking. Dimensions: 35 mm wide x 1.230 mm long. Adjustable.",
+    "price": 470,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1f98f2a6/images/large/637708983115612434-2222390.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Belt, Tank Crocodile",
+    "description": "Black crocodile skin, palladium-finish buckle. Belt with palladium-finish ardillon buckle, Cartier signature. Strap in black porosus crocodile skin, embossed \"Cartier\" marking. Dimensions: 30 mm wide x 1.230 mm long. Adjustable.",
+    "price": 2660,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd0d2bcfd/images/large/637777173816469390-2272710.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "C De Cartier Sunglasses",
+    "description": "Combined golden and black, matte golden-finish frame, smooth palladium-finish bridge, brown lenses. Combined two-tone golden and palladium-finish C de Cartier sunglasses. Dimensions: lenses 54 mm, bridge 21 mm, temples 145 mm.",
+    "price": 695,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8d1ed5d3/images/large/637708846810763479-2119761.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 6
+  },
+  {
+    "name": "Santos De Cartier Sunglasses",
+    "description": "Smooth champagne golden-finish metal, gray polarized lenses with golden flash. Santos de Cartier sunglasses in smooth champagne golden-finish metal, class 3 solar protection. Dimensions: lenses 60 mm, bridge 16 mm, temples 135 mm.",
+    "price": 1145,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwb3d78f9d/images/large/637708855994026489-2120214.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 6
+  },
+  {
+    "name": "Signature C Sunglasses",
+    "description": "Smooth golden-finish metal, green lenses. Signature C de Cartier sunglasses in composite and smooth golden-finish metal, pilot shape and green lenses. Dimensions: 58 mm lenses, 14 mm bridge, 145 mm temples.",
+    "price": 1095,
+    "mainImg": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9de37022/images/large/637708861964793114-2156565.png?sw=2000&sh=2000&sm=fit&sfrm=png",
+    "authorId": 1,
+    "categoryId": 6
+  }
+]

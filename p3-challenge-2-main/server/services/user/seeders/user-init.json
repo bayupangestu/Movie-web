@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "admin1",
+    "email": "admin1@admin.com",
+    "password": "$2b$10$pbUOS5bLTy0SfVIkVcmX2OoVgli.RUrXY6y/28xs/U9TwwhCFysRC",
+    "role": "admin",
+    "phoneNumber": "608-471-1018",
+    "address": "14 Paget Trail",
+    "createdAt": "2022-04-07T15:34:27.731Z",
+    "updatedAt": "2022-04-07T15:34:27.731Z"
+  },
+  {
+    "id": 2,
+    "username": "customer1",
+    "email": "customer1@customer.com",
+    "password": "$2b$10$w5ySE1Jjckan7qynPzzG7OpLSpoiGQ4aZ29qn1fORe7nzQ0hc2.l6",
+    "role": "customer",
+    "phoneNumber": "229-217-0674",
+    "address": "27 Mallard Street",
+    "createdAt": "2022-04-07T15:34:27.805Z",
+    "updatedAt": "2022-04-07T15:34:27.805Z"
+  }
+]
